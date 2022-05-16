@@ -1,7 +1,7 @@
 using System;
 using Xunit;
 
-namespace Ghbvft6.WinBuildTestTest
+namespace Ghbvft6.WinBuildTest
 {
     public class UnitTest1
     {

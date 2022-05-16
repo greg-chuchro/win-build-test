@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Ghbvft6.WinBuildTest
+namespace Ghbvft6.WinBuild
 {
     class Program
     {
