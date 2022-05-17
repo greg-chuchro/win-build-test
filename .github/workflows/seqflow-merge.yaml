@@ -17,7 +17,7 @@ jobs:
     - uses: actions/checkout@v2
       with:
         fetch-depth: 2
-    - uses: greg-chuchro/seqflow-merge@v0.0.*
+    - uses: greg-chuchro/seqflow-merge@v0.0
       with:
         callback: |
           if [ ! -z "${{secrets.NUGET_API_KEY}}" ]; then
